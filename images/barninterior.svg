@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <title>barninterior</title>
+  <g id="Layer_10" data-name="Layer 10">
+    <rect x="1.13" width="1920" height="1080" style="fill: #1a1c1c;stroke: #632c2c;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <rect x="927.13" y="109.61" width="670.33" height="664.46" style="fill: #fff"/>
+    <line x1="1248.88" y1="109.61" x2="1259.36" y2="774.07" style="fill: none;stroke: #632c2c;stroke-miterlimit: 10;stroke-width: 31px"/>
+    <line x1="925.84" y1="449.14" x2="1597.46" y2="440.5" style="fill: none;stroke: #632c2c;stroke-miterlimit: 10;stroke-width: 31px"/>
+    <path d="M916.66,1304.46s-70.1-164.93,56.17-181.58,154.43-116.71,109.38-156.21" style="fill: none;stroke: #2b2b2b;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 36px"/>
+    <circle cx="544.45" cy="902.07" r="86.16" style="fill: #fff;opacity: 0.1"/>
+    <circle cx="544.45" cy="902.07" r="60.92" style="fill: #fff;opacity: 0.1"/>
+    <path d="M799.84,970.19s-292.85,461,0,476.6S955.57,1152.64,799.84,970.19Z" style="fill: #333"/>
+    <circle cx="808.95" cy="1001.93" r="120.67" style="fill: #333"/>
+    <path d="M722.53,858.68l65.54,54.63a5.13,5.13,0,0,1-1.51,8.75L706.48,951.5a5.12,5.12,0,0,1-6.82-5.68l14.54-84.07A5.13,5.13,0,0,1,722.53,858.68Z" style="fill: #333"/>
+    <path d="M815.31,1021.15l5.26-9.11a1.36,1.36,0,0,0-1.18-2H808.88a1.36,1.36,0,0,0-1.18,2l5.26,9.11A1.36,1.36,0,0,0,815.31,1021.15Z" style="fill: #e26d6d"/>
+    <path d="M895.36,858.68l-65.54,54.63a5.13,5.13,0,0,0,1.51,8.75l80.08,29.44a5.12,5.12,0,0,0,6.82-5.68l-14.54-84.07A5.13,5.13,0,0,0,895.36,858.68Z" style="fill: #333"/>
+    <circle cx="747.23" cy="994.43" r="35.58" style="fill: #fff"/>
+    <circle cx="736.25" cy="988.38" r="21.63" style="fill: #333"/>
+    <circle cx="881.64" cy="994.43" r="35.58" style="fill: #fff"/>
+    <circle cx="870.66" cy="988.38" r="21.63" style="fill: #333"/>
+    <path d="M709.71,933.23,721,873s3.51,30.41,26.25,38.29Z" style="fill: #e26d6d"/>
+    <path d="M907.22,926.56,896,866.3s-3.51,30.41-26.25,38.3Z" style="fill: #e26d6d"/>
+    <path d="M688.28,1001.93s-55.19,78.92,41.4,91S688.28,1001.93,688.28,1001.93Z" style="fill: #333"/>
+    <path d="M929.76,1004.22s55.18,78.91-41.41,91S929.76,1004.22,929.76,1004.22Z" style="fill: #333"/>
+    <line x1="538.23" y1="896.43" x2="736.25" y2="1239.7" style="fill: none;stroke: #333;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 40px"/>
+    <path d="M549.27,954.61S486.09,900.16,529.48,877s54,60.5,54,60.5Z" style="fill: #333"/>
+    <circle cx="550.2" cy="914.59" r="12.52" style="fill: #e26d6d"/>
+    <circle cx="557.79" cy="890.91" r="5.52" style="fill: #e26d6d"/>
+    <circle cx="539.46" cy="890.91" r="4.99" style="fill: #e26d6d"/>
+    <circle cx="528.47" cy="906.72" r="5.39" style="fill: #e26d6d"/>
+    <path d="M790.93,885.4s24.21-6,29.82-17.48c0,0-8.72,14.39,0,15.07Z" style="fill: #333"/>
+    <line x1="415.74" y1="-5.71" x2="415.74" y2="728.41" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+    <circle cx="415.74" cy="756.43" r="28.02" style="fill: #333"/>
+    <circle cx="415.74" cy="804.26" r="19.81" style="fill: #333"/>
+    <polyline points="439.92 742.26 461.92 724.54 482.76 748.19" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <polyline points="443.6 763.06 460.42 753.91 476.36 766.12" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <polyline points="388.49 747.98 366.49 730.26 345.65 753.91" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <polyline points="389.81 768.78 372.99 759.63 357.05 771.84" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g id="Layer_13" data-name="Layer 13">
+      <polygon points="927.13 453.13 0 665.15 0 970.19 927.13 774.07 927.13 453.13" style="fill: #fff;opacity: 0.1"/>
+      <polygon points="1257.86 108.49 -1.5 505.22 -1.5 772.95 1257.86 424.13 1257.86 108.49" style="fill: #fff;opacity: 0.05"/>
+      <g>
+        <path d="M927.13,109.61,0,361.35v270S924.6,432,925.87,421.88,927.13,109.61,927.13,109.61Z" style="fill: #fff;opacity: 0.1"/>
+        <polygon points="1267.32 453.13 -49.54 842.32 -8.44 1080 1267.32 771.84 1267.32 453.13" style="fill: #fff;opacity: 0.05"/>
+      </g>
+    </g>
+  </g>
+</svg>
